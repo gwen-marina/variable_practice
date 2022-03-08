@@ -4,3 +4,6 @@ user_number = "11"
 user_id = 10
 total_count = 101
 number = 15
+deposit = 1500.00
+withdrawl = 1200.00
+bill_paid = 100.00
