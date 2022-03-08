@@ -7,3 +7,6 @@ number = 15
 deposit = 1500.00
 withdrawl = 1200.00
 bill_paid = 100.00
+is_attending = false
+is_hungry = true
+checked_in = true
