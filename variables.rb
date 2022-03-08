@@ -10,3 +10,7 @@ bill_paid = 100.00
 is_attending = false
 is_hungry = true
 checked_in = true
+email = "gwen_marina@gmail.com"
+user_name = "Smudger"
+number = 5
+is_hungry = false
